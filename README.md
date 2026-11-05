@@ -8,8 +8,7 @@ This project is a plugin that blocks users who are not logged in from viewing th
 
 ## Overview
 
-(What does your block or plugin do? What problem does it solve?
-Who will use it: site visitors, editors, or administrators?) This plugin blocks users who are not logged in from viewing the front end view of the website and see a "Coming Soon" message instead.
+This plugin blocks users who are not logged in from viewing the front end view of the website and see a "Coming Soon" message instead.
 
 ## Features
 
