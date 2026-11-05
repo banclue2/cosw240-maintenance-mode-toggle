@@ -1,6 +1,6 @@
 # Maintenance Mode Toggle
 
-(One or two sentences that explain what your project is.) This project is a plugin that blocks users who are not logged in from viewing the front end view of the website and see a "Coming Soon" message instead.
+This project is a plugin that blocks users who are not logged in from viewing the front end view of the website and see a "Coming Soon" message instead.
 
 **Type:** Plugin
 **Author:** Rosana May
