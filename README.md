@@ -49,3 +49,23 @@ I am unsure about how to code the redirecting users part and targetting it towar
 ## Resources
 
 - [UsersInsight](https://usersinsights.com/wordpress-redirect-if-not-logged-in/)
+
+## Current Status
+Registration milestone complete.
+The final project feature is not implemented yet.
+
+## Installation
+1. Upload the project ZIP through Plugins > Add New > Upload Plugin.
+2. Install and activate the plugin.
+
+## Current File Structure
+.gitignore: Keeps local clutter and secrets out of the project respository.
+cosw240-maintenance-mode-toggle.php: Provides basic information about the plugin.
+
+## Testing
+- WordPress version tested: 1.0.0
+- Plugin activates without errors: True
+- Known issues: None
+
+## Next Milestone
+Add in redirects.
