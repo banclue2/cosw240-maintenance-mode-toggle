@@ -15,9 +15,9 @@ add_action( 'template_redirect', 'redirect_user' );
 
 function redirect_user() {
 
-if ( !is_user_logged_in() ) {
+if ( !is_user_logged_in() && !is_page( 'coming-soon' ) ) {
 
-wp_redirect( 'http://cosw240.local/coming-soon/ ');
+wp_redirect( 'http://cosw240.local/coming-soon/' );
 
 exit;
 
