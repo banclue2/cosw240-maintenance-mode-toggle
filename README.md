@@ -37,9 +37,9 @@ cosw240-maintenance-mode-toggle/
 
 ## Project Milestones
 
-- [ ] Write the project plan in README.md
-- [ ] Create "Coming Soon" message
-- [ ] Set up redirect for logged-out users
+- [x] Write the project plan in README.md
+- [x] Create "Coming Soon" message
+- [x] Set up redirect for logged-out users
 - [ ] Finish project and turn it into a plugin
 
 ## Questions and Challenges
@@ -69,3 +69,6 @@ cosw240-maintenance-mode-toggle.php: Provides basic information about the plugin
 
 ## Next Milestone
 Add in redirects.
+
+## Alpha Status
+The plugin works correctly. Now all I need to do is style it.
