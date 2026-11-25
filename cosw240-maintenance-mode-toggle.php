@@ -10,3 +10,17 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+
+add_action( 'template_redirect', 'redirect_user' );
+
+function redirect_user() {
+
+if ( !is_user_logged_in() ) {
+
+wp_redirect( 'http://cosw240.local/coming-soon/ ');
+
+exit;
+
+}
+
+}
